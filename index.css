@@ -108,8 +108,6 @@ body {
 
 
 .main-visual {
-  background: url('images/.jpg') no-repeat center center;
-  background-size: cover;
   color: rgb(249, 149, 8);
   padding: 50px 20px;
   text-align: center;
